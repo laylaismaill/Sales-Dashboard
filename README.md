@@ -39,10 +39,7 @@ It provides a clear view of performance across products, regions, and time perio
 ---
 
 ## 🏷 Author
-Leila Elkordy  
-Computer Science Student 💻  
-Interested in Data Analysis & AI  
-
+Layla Ismail
 📧 Email: [laylaelkordy@gmail.com](mailto:laylaelkordy@gmail.com)  
 🔗 LinkedIn: [Layla Ismail](https://www.linkedin.com/in/layla-ismail-3b28a3322)  
 
